@@ -126,7 +126,7 @@ CONFIG_PACKAGE_ruby-yaml=y
 # CONFIG_PACKAGE_shadowsocksr-libev-ssr-local is not set
 # CONFIG_PACKAGE_shadowsocksr-libev-ssr-redir is not set
 # CONFIG_PACKAGE_shadowsocksr-libev-ssr-server is not set
-# CONFIG_PACKAGE_simple-obfs is not set
+# CONFIG_PACKAGE_simple-obfs-client is not set
 # CONFIG_PACKAGE_smartmontools is not set
 CONFIG_PACKAGE_snmpd=y
 # CONFIG_PACKAGE_strongswan is not set
