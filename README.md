@@ -21,10 +21,15 @@
 ---
 
 <details>
-<summary>🆙更新说明（2023年9月2号）</summary>
+<summary>🆙更新说明（2024年1月14号）</summary>
 
 <br>
 
+  2024年1月14号
+
+ 修复私库不能启动编译和同步更新上游仓库问题，要注意的是如果你把仓库设置成私库，在线更新固件功能是不可以使用的，因为私库是检测不到的，就没办法下载您在私库releases的固件
+ 
+ ---
   2023年9月2号
 
  增加<释放Ubuntu磁盘空间>解决最近因为服务器空间不足而编译失败的问题
@@ -140,19 +145,6 @@ CONFIG_TARGET_armsr_armv8_DEVICE_generic=y
 《[本地一键提取.config然后在云编译脚本使用](https://github.com/281677160/bendi)》
 
 <br />
-</details>
-
----
-
-<details>
-<summary>🏠Telegram群</summary>
-<br>
-<br />
- 
-《[Telegram聊天吹水群](https://t.me/heiheiheio)》
-
-《[Telegram中文设置方法](https://github.com/danshui-git/shuoming/blob/master/tele.md)》
-
 </details>
 
 ---
